@@ -4,7 +4,7 @@ const bodyParser=require('body-parser')
 const cors=require('cors')
 
 const openai = new OpenAI({
-    apiKey:'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'
+    apiKey:'Api-key'
 });
 
 const app=express();
